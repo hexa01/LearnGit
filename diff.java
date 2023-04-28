@@ -5,7 +5,7 @@ public class diff {
         int a = sc.nextInt();
         int b = sc.nextInt();
         int diff = a - b;
-        System.out.println("The sum of a and b is: " + diff);
+        System.out.println("The difference of a and b is: " + diff);
         sc.close();
      }
 }
